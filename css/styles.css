@@ -5,3 +5,20 @@ h1.header {
   font-family:Arial, Helvetica, sans-serif;
   font-style:normal
 }
+
+h2.header2 {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+ul.list {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 90%;
+}
+
+li.list {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 90%;
+}
