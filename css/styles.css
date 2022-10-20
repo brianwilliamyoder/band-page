@@ -22,3 +22,13 @@ li.list {
   font-family: 'Courier New', Courier, monospace;
   font-size: 90%;
 }
+
+.left {
+  float: left;
+  size-adjust: 75%;
+}
+
+.right {
+  float: right; 
+  size-adjust: 75%
+}
